@@ -1,0 +1,1 @@
+Arweave Devnet Deployed URL: https://arweave.dev/Wx3SssVWUp8FKaEALN_1eW2Pfpn0ALv36EVn8oCiNb0/
